@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ZPKGUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ZPKGUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
