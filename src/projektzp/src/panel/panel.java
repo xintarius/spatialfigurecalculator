@@ -17,7 +17,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Bugi
+ * @author Grzegorz
  */
 public class panel extends javax.swing.JPanel {
 
